@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896698680032",
+    "project_id": "administration-ipm-4a83d",
+    "storage_bucket": "administration-ipm-4a83d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896698680032:android:a7a0faf6d77f3ef3fbc685",
+        "android_client_info": {
+          "package_name": "com.example.administration_ipm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KAW3oWIboUnvkjB6a1HaOQsoDov4HVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
